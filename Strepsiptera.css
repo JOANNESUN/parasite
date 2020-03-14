@@ -1,0 +1,40 @@
+h2 {
+    color: blueviolet;
+    text-align: center;
+    
+    }
+    #title{
+
+        font-style: oblique;
+        text-align: center;
+    }
+/*
+    p{
+        background-color: deeppink;
+        font-style: italic;
+    }*/
+    
+/*
+    #Strepsiptera_main{
+        background-color: khaki;   
+    }*/
+#Strepsiptera{
+    background-color: rgb(52, 240, 209);
+    text-align: center;
+}
+
+#Male_strepsiptera{
+    background-color: yellow;
+    text-align: center;
+}
+    
+#Female_strepsiptera{
+    background-color: rgb(248, 79, 12);
+    text-align: center;
+}
+
+/*
+p{
+    background-color: orange;
+}*/
+

@@ -1,0 +1,14 @@
+.boxes{
+
+    padding: 10px;
+    border: 25px solid green;
+    margin: 20px;
+
+   }
+
+ #topSection{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+   }

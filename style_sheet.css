@@ -1,9 +1,16 @@
 
+.video{
+    text-align: center;
+}
 
 *{
     font-family: sans-serif;
 } 
 
-header{
+/*header{
     background-color: mistyrose;
+}*/
+
+h1{
+    text-align: center;
 }

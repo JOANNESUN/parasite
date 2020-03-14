@@ -1,11 +1,12 @@
 img{
     width: 300px;
     height: 250px;
-    padding: 10px;
+ 
+    border: 25px solid turquoise;
 }
 
 #flexbox{
  display: flex;
- flex-wrap: wrap-reverse;
- justify-content: space-center;
+ flex-wrap: wrap;
+ justify-content: space-evenly;
 }
